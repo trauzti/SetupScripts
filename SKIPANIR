@@ -44,3 +44,98 @@
  1316  vim index.html
  1317  history
 
+
+ 1319  vim SKIPANIR
+ 1320  git add SKIPANIR
+ 1321  git commit INGO
+ 1322  git status
+ 1323  ls
+ 1324  git add SKIPANIR
+ 1325  git status
+ 1326  git add SKIPANIR
+ 1327  ls
+ 1328  git commit "ingo"
+ 1329  git commit SKIPANIR
+ 1330  git commit -m "ingo"
+ 1331  ls
+ 1332  git push
+ 1333  ls
+ 1334  vim nytt.py 
+ 1335  cd ~/
+ 1336  ls
+ 1337  cd dotfiles/
+ 1338  ls
+ 1339  git rm _vim/bundle/minibufexpl
+ 1340  git sudmodule remove _vim/bundle/minibufexpl
+ 1341  git submodule remove _vim/bundle/minibufexpl
+ 1342  rm -r _vim/bundle/minibufexpl
+ 1343  sudo rm -r _vim/bundle/minibufexpl
+ 1344  git status
+ 1345  git remote add trauzti git@github.com:trauzti/dotfiles.git
+ 1346  git statyus
+ 1347  git status
+ 1348  git add .
+ 1349  git status
+ 1350  git add _vim/bundle/
+ 1351  git status
+ 1352  git rm _vim/bundle/minibufexpl
+ 1353  git status
+ 1354  git push trauzti master
+ 1355  git pull
+ 1356  git commit -m"Updated shit"
+ 1357  git push trauzti master
+ 1358  ls
+ 1359  ls .git/
+ 1360  vim .git/config 
+ 1361  ls
+ 1362  vim _gitconfig 
+ 1363  cat ../.gitconfig
+ 1364  vim _gitconfig
+ 1365  source ../.bashrc
+ 1366  git status
+ 1367  git diff _gitconfig
+ 1368  git add .
+ 1369  git status
+ 1370  git commit -m"Updated gitconfig"
+ 1371  git push
+ 1372  git push trauzti master
+ 1373  ls
+ 1374  git status
+ 1375  cd _vim/bundle/
+ 1376  git status
+ 1377  git add git
+ 1378  git status
+ 1379  vf git/
+ 1380  cd git/
+ 1381  ls
+ 1382  git status
+ 1383  cd ..
+ 1384  cd gundo/
+ 1385  git status
+ 1386  ls
+ 1387  cd ..
+ 1388  ls
+ 1389  git status
+ 1390  vim git/.gitignore
+ 1391  git status
+ 1392  cd git/
+ 1393  git status
+ 1394  vim .gitignore 
+ 1395  git status
+ 1396  cd ..
+ 1397  ls
+ 1398  git status
+ 1399  ls
+ 1400  cd ..
+ 1401  ls
+ 1402  cat _hgrc 
+ 1403  cat _pdbrc.py
+ 1404  cat _pythonrc.py 
+ 1405  python
+ 1406  ls
+ 1407  cat _screenrc 
+ 1408  ls
+ 1409  cat _vimrc 
+ 1410  ls
+ 1411  history
+
