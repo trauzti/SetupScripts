@@ -1,0 +1,46 @@
+
+ 1274  cd
+ 1275  git clone https://github.com/sontek/dotfiles.git
+ 1276  cd dotfiles/
+ 1277  ./install.sh 
+ 1278  ls
+ 1279  sudo apt-cache search rake
+ 1280  sudo apt-get install rake
+ 1281  cat install.sh 
+ 1282  clear
+ 1283  cat install.sh 
+ 1284  git submodule
+ 1285  git submodule add https://github.com/mattn/zencoding-vim.git _vim/bundle/zencoding
+ 1286  ./install.sh
+ 1287  sudo apt-get install ruby-dev
+ 1288  ./install.sh
+ 1289  ls
+ 1290  car _bashrc 
+ 1291  cat _bashrc 
+ 1292  ls
+ 1293  cd ..
+ 1294  ls dotfiles/
+ 1295  mv .bashrc .bashrc.bak
+ 1296  ln -s .bashrc dotfiles/_bashrc
+ 1297  ln -s dotfiles/_bashrc .bashrc
+ 1298  source .bashrc
+ 1299  cd dotfiles/
+ 1300  ls
+ 1301  vim _bashrc 
+ 1302  source .bashrc
+ 1303  cd ..
+ 1304  source .bashrc
+ 1305  vim .bashrc
+ 1306  source .bashrc
+ 1307  cat _bashrc 
+ 1308  source .bashrc
+ 1309  cat .bashrc
+ 1310  vim .bashrc
+ 1311  sudo vim .bashrc
+ 1312  vim .bashrc
+ 1313  ls
+ 1314  cd Development/mytest/
+ 1315  ls
+ 1316  vim index.html
+ 1317  history
+
